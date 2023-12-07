@@ -34,7 +34,7 @@
   });
 
   const student3 = addCourseToStudent({
-    id: 123,
+    id: 3,
     name: "swadeb",
     email: "f@gmail.com",
     emani: "Emni",
